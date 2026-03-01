@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksunnp&label=Profile%20views&color=0e75b6&style=flat" alt="darksunnp" /> </p>
 
-- 🔭 I’m currently working on [-] HamroAI - SOTA Nepali LLM
+- 🔭 I’m currently working on [HamroAI - SOTA Nepali LLM](https://github.com/darksunnp/HamroAI)
 
 - 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate on [-](Any projects)
+- 👯 I’m looking to collaborate on [Any projects]
 
-- 👨‍💻 All of my projects are available at [-](https://github.com/darksunnp?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/darksunnp?tab=repositories)
 
 - 💬 Ask me about **scikit-learn**
 

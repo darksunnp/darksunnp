@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate on [Any projects](Any projects)
+- 👯 I’m looking to collaborate on Any projects
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/darksunnp?tab=repositories)
 

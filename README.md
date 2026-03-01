@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksunnp&label=Profile%20views&color=0e75b6&style=flat" alt="darksunnp" /> </p>
 
-- 🔭 I’m currently working on [-]HamroAI - SOTA Nepali LLM
+- 🔭 I’m currently working on [-] HamroAI - SOTA Nepali LLM
 
 - 🌱 I’m currently learning **NLP**
 
